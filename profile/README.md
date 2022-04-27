@@ -1,12 +1,3 @@
-## Hi there 👋
+物联网实验室是湖南工学院计算机科学与工程学院的一个学生开放实验室，致力于培养学生专业水平、提高创新实践能力，以学科竞赛为翅膀让学生展翅飞翔。
 
-<!--
-
-**Here are some ideas to get you started:**
-
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+![IMG_20220427_121738](https://user-images.githubusercontent.com/39958055/165526999-3f96c613-05c2-4873-b004-51735a3a2a77.jpg)
